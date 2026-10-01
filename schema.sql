@@ -1,0 +1,2 @@
+-- StudyFlow schema is created automatically by server.js on startup.
+-- Railway only needs a PostgreSQL service and DATABASE_URL.
